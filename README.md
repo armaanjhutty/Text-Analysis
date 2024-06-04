@@ -15,3 +15,4 @@ This is a python code that analyzes the a text file and provides info on that fi
 Commented in code
 - https://www.reddit.com/r/learnpython/comments/rbqk4u/how_to_check_for_punctuations_in_a_string/
 - https://stackoverflow.com/questions/53376146/what-does-sum1-for-c-in-sentence-if-c-isupper-mean-in-non-programming-terms
+- https://www.dataquest.io/blog/read-file-python/ (5 Marks)
